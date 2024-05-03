@@ -10,7 +10,7 @@ thread but out of order. The problem occurs when:
 The problem does not occur when:
 
 	1) We run the tests on the project using the testng.xml file.
-	2) The static inner class to moved to its own file.META-INF
+	2) The static inner class to moved to its own file.
 	
 
 Included is a ISuiteListener that sets parallel=classes. However, this does not change the issue.
