@@ -1,0 +1,15 @@
+.#*
+*~
+.*.md.html
+CVS
+bin
+Thumbs.db
+war
+/.metadata/
+*/.settings
+*/target
+*/test-output
+**/.factorypath
+**/.dbeaver
+/logs
+*.log
